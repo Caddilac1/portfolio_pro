@@ -1,6 +1,6 @@
-import { defineConfig } from 'vite';
-import react from '@vitejs/plugin-react';
-import path from 'path';
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+import path from 'path'
 
 export default defineConfig({
   plugins: [react()],
@@ -14,5 +14,7 @@ export default defineConfig({
     strictPort: true,
     host: true,
     allowedHosts: true,
-  }
-});
+  },
+  // 👇 Add this line — replace with your GitHub repo name
+  base: '/portfolio_pro/',
+})
