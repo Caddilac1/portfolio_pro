@@ -70,7 +70,7 @@ function App() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="flex-shrink-0">
-              <h1 className="text-xl font-semibold text-primary">Your Name</h1>
+              <h1 className="text-xl font-semibold text-primary">Caddilac Kwasi Akoto</h1>
             </div>
             
             {/* Desktop Navigation */}
@@ -140,7 +140,7 @@ function App() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <div className="animate-fade-in-up">
             <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold text-foreground mb-6">
-              Hi, I'm <span className="text-primary">Your Name</span>
+              Hi, I'm <span className="text-primary">Caddilac Kwasi Akoto</span>
             </h1>
             <h2 className="text-xl sm:text-2xl lg:text-3xl text-muted-foreground mb-8">
               Software Developer & Designer
@@ -473,7 +473,7 @@ function App() {
                       </div>
                       <div>
                         <p className="font-medium text-foreground">Email</p>
-                        <p className="text-muted-foreground">your.email@example.com</p>
+                        <p className="text-muted-foreground">nabaradirector@gmail.com</p>
                       </div>
                     </div>
                     <div className="flex items-center">
@@ -482,7 +482,7 @@ function App() {
                       </div>
                       <div>
                         <p className="font-medium text-foreground">Phone</p>
-                        <p className="text-muted-foreground">+1 (555) 123-4567</p>
+                        <p className="text-muted-foreground">0557468828</p>
                       </div>
                     </div>
                     <div className="flex items-center">
@@ -491,7 +491,7 @@ function App() {
                       </div>
                       <div>
                         <p className="font-medium text-foreground">Location</p>
-                        <p className="text-muted-foreground">San Francisco, CA</p>
+                        <p className="text-muted-foreground">Accra, Ghana</p>
                       </div>
                     </div>
                   </div>
@@ -538,7 +538,7 @@ function App() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
             <div>
-              <h3 className="font-semibold text-foreground mb-4">Your Name</h3>
+              <h3 className="font-semibold text-foreground mb-4">Caddilac Kwasi Akoto</h3>
               <p className="text-muted-foreground">
                 Creating digital experiences that make a difference.
               </p>
@@ -589,7 +589,7 @@ function App() {
           </div>
           <div className="border-t border-border pt-8 text-center">
             <p className="text-muted-foreground">
-              © {new Date().getFullYear()} Your Name. All rights reserved.
+              © {new Date().getFullYear()} Cadditech Solutions. All rights reserved.
             </p>
           </div>
         </div>
